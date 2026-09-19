@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Two Pointers
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Prefix Sum
@@ -70,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
