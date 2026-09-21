@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Prefix Sum
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
