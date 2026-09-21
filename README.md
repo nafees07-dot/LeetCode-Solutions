@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/nafees07-dot/LeetCode-Solutions/tree/master/0268-missing-number) |
